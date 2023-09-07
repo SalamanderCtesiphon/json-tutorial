@@ -35,3 +35,5 @@ const superHeroes = {
     }
   ]
 }
+
+console.log(superHeroes)
